@@ -1,6 +1,6 @@
 # Movie-Predication-Rating
 
-
+banner.img.jpg
 
 Table of Contents
 Project Overview
